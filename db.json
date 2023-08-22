@@ -132,8 +132,7 @@
       "hotelId": 1,
       "hotelName": "Paradise Stay",
       "userId": 1,
-      "id": 2,
-      "bookingId": "2"
+      "id": 2
     },
     {
       "startDate": "2020-09-30",
@@ -155,8 +154,7 @@
       "hotelId": 1,
       "hotelName": "Paradise Stay",
       "userId": 2,
-      "id": 4,
-      "bookingId": "4"
+      "id": 4
     },
     {
       "startDate": "2020-09-25",
@@ -168,6 +166,17 @@
       "hotelName": "Hill Palace",
       "userId": 2,
       "id": 5
+    },
+    {
+      "startDate": "2023-08-23",
+      "endDate": "2023-08-25",
+      "noOfPersons": 5,
+      "noOfRooms": 3,
+      "typeOfRoom": "AC",
+      "hotelName": "Paradise Stay",
+      "hotelId": 1,
+      "userId": 5,
+      "id": 9
     }
   ]
 }
